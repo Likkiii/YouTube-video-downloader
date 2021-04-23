@@ -21,7 +21,7 @@ except:
 #Downloading the video
 try:
     print("\nProgress: ")
-    ys.download("YOUR_PATH")
+    ys.download("YOUR_PATH")  #Enter your path
     print("\nSuccessfully Downloaded...")
 except: 
     print("\nCouldn't download video")
