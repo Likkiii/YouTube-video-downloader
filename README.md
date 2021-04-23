@@ -8,7 +8,7 @@ Go to your terminal and run this command to install pytube
 ```python
 pip install pytube
 ```
-Before, running the program,make sure to change "your path" as to where u want to store your downloaded videos.<br><br>
+Before, running the program, make sure to change "your path" as to where u want to store your downloaded videos.<br><br>
 Now run the code in your terminal.<br>
 ```python
 py main.py
