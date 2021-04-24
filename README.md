@@ -1,15 +1,16 @@
 # YouTube-Video-Downloader
 A program which lets you download YouTube videos into your system by using a simple Python library - pytube.<br><br>
-Clone the repo
+Follow these steps to setup a local running copy in your system: <br>
+1. Clone the repo
 ```
 git clone https://github.com/Likkiii/YouTube-Video-Downloader.git
 ``` 
-Go to your terminal and run this command to install pytube
+2. Go to your terminal and run this command to install pytube
 ```python
 pip install pytube
 ```
 Before, running the program, make sure to change "your path" as to where u want to store your downloaded videos.<br><br>
-Now run the code in your terminal.<br>
+3. Now run the code in your terminal.<br>
 ```python
 py main.py
 ```
