@@ -1,5 +1,6 @@
-# YouTube-Video-Downloader
+# YouTube Video Downloader
 A program which lets you download YouTube videos into your system by using a simple Python library - pytube.<br><br>
+## Setup
 Follow these steps to setup a local running copy in your system: <br>
 1. Clone the repo
 ```
