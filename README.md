@@ -8,7 +8,7 @@ git clone https://github.com/Likkiii/YouTube-Video-Downloader.git
 ``` 
 2. Go to your terminal and run this command to install pytube
 ```python
-pip install pytube
+python -m pip install git+https://github.com/nficano/pytube
 ```
 &nbsp;&nbsp; Before, running the program, make sure to change "your path" as to where u want to store your downloaded videos.<br><br>
 &nbsp;&nbsp; 3. Now run the code in your terminal.<br>
