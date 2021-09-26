@@ -16,4 +16,4 @@ python -m pip install git+https://github.com/nficano/pytube
 py main.py
 ```
 Enter the link of the video which you want to download.<br>
-Your video will get downloaded. 😉
+Your video will get downloaded into your folder. 😉
