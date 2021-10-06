@@ -6,7 +6,7 @@ Follow these steps to setup a local running copy in your system: <br>
 ```
 git clone https://github.com/Likkiii/YouTube-Video-Downloader.git
 ``` 
-2. Go to your terminal and run this command to install pytube
+2. Go to your terminal and run this command to install the latest version of pytube
 ```python
 python -m pip install git+https://github.com/nficano/pytube
 ```
